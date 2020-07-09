@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /core/
+Disallow: /js/
+Disallow: /styles/
+
+Host: https://brs-agent.by/
+Sitemap: https://brs-agent.by/sitemap.xml
